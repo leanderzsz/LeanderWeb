@@ -1,0 +1,11 @@
+Step 1: git init in the directory you plan on pushing to github.
+
+Step 2: git add . to add all files or git add yourFile for one file
+
+Step 3: git commit -m "first commit" to commit your additions
+
+Step 4: git remote add origin your_remote_repository_url to link it
+
+Step 5: git remote -v to verify
+
+Step 6: git push origin master to upload it to github for good
