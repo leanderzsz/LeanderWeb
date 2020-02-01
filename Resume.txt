@@ -1,0 +1,9 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Lean Resume</title>
+	</head>
+	<body>
+		<h1>Pamintuan, Leander B.</h1>
+	</body>
+</html>
